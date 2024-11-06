@@ -6,7 +6,7 @@ class Tarea_1:
     Curso: Programación Orientada a Objetos
     Grupo: 3
     Semestre: 2024-2
-    Profesor:
+    Profesor: Walter Hugo Arboleda Mazo
     """
     def ejercicioR4(self):
         edad_juan = float(input("ingrese la edad de juan: "))
