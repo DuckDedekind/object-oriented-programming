@@ -1,10 +1,10 @@
-# Tarea 1 - Object-Oriented Programming Course / Task 1 - Object-Oriented Programming Course
+#  Assigment 1 - Object-Oriented Programming Course / Tarea 1 - Curso de Programación Orientada a Objetos
 
 ## Course Details / Detalles del Curso:
 - **Course**: Object-Oriented Programming / Programación Orientada a Objetos
 - **Group**: 3
 - **Semester**: 2024-2
-- **Instructor**: [Instructor Name] / [Nombre del Profesor]
+- **Instructor**: Walter Hugo Arboleda Mazo
 
 ## Description / Descripción:
 This Python code contains solutions to various exercises for an Object-Oriented Programming course. The class `Tarea_1` includes methods for multiple exercises:  
